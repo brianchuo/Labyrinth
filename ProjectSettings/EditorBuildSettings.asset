@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 1a13d976d9f968545b636f32c9af1d38
+  - enabled: 1
+    path: Assets/Scenes/Starting Room.unity
+    guid: 45abbfc7368544bcbb9e228a4dd96821
+  - enabled: 1
+    path: Assets/Scenes/Old Scenes/(Old) Room 1.unity
+    guid: 445fc9249dbcd5443a1895893929aa53
+  - enabled: 1
+    path: Assets/Scenes/Old Scenes/(Old) Room 2.unity
+    guid: aa9564e3ee1a947269aeca702172b751
+  - enabled: 1
+    path: Assets/Scenes/Room 1.unity
+    guid: f2f451dda6d254be89178e94b5199316
+  - enabled: 1
+    path: Assets/Scenes/Room 2.unity
+    guid: a8e3f51928d4d704097ec80d1aeee2eb
+  - enabled: 1
+    path: Assets/Scenes/Room 3.unity
+    guid: 070f73dba507af246861d447ba33c9a3
+  - enabled: 1
+    path: Assets/Scenes/Old Scenes/(Old) Room 6.unity
+    guid: aa4ba6fdd21c98745b6051c4edeff22b
+  - enabled: 1
+    path: Assets/Scenes/Room 4.unity
+    guid: 33b096a7685a4401abb4a02e7f80f91c
+  - enabled: 1
+    path: Assets/Scenes/Room 5.unity
+    guid: e9f3fb7094fc345fb81043ea21a1d32e
+  - enabled: 1
+    path: Assets/Scenes/Win Screen.unity
+    guid: 69530caf1d6e94bb9ae8cc2b2398f69c
+  m_configObjects: {}
